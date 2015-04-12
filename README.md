@@ -5,7 +5,9 @@ Steps:
 1/ Install Ruby
 
 $ \curl -L https://get.rvm.io |    bash -s stable --ruby --autolibs=enable --auto-dotfiles
+
 $ source /home/azureuser/.rvm/scripts/rvm
+
 $ ruby -v
 
 2/ Install Sinatra
