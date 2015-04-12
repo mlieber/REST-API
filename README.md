@@ -16,8 +16,10 @@ $ gem install sinatra
 
 $ gem install thin
 
-3/ Install Scraper
+3/ Install Scraper:
+
 $ gem install linkedin-scraper
 
-4/ Download REST-API.rb 
+4/ Download REST-API.rb :
+
 $ ruby server.rb -o 0.0.0.0 &
